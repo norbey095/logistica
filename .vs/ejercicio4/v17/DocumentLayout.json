@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|c:\\pc\\4 alejo\\censa tecnica\\7. poo basica visual studio\\logistica\\ejercicio4\\facturacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:facturacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\impuestos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:impuestos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\inventario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:inventario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\loguin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:loguin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\nomina.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:nomina.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\opcion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:opcion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\venta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:venta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\corporativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:corporativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\corporativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:corporativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\bienvenido.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4265D25F-D57C-4186-A589-D59C46CA8341}|trabajo final.vbproj|solutionrelative:bienvenido.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Facturacion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Facturacion.vb",
+              "RelativeDocumentMoniker": "Facturacion.vb",
+              "ToolTip": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Facturacion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Facturacion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:43.735Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Impuestos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Impuestos.vb",
+              "RelativeDocumentMoniker": "Impuestos.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Impuestos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventario.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Inventario.vb",
+              "RelativeDocumentMoniker": "Inventario.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Inventario.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:38.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loguin.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Loguin.vb",
+              "RelativeDocumentMoniker": "Loguin.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Loguin.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:34.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nomina.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Nomina.vb",
+              "RelativeDocumentMoniker": "Nomina.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Nomina.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:31.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Opcion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Opcion.vb",
+              "RelativeDocumentMoniker": "Opcion.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Opcion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:21.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Venta.vb",
+              "RelativeDocumentMoniker": "Venta.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Venta.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:46:17.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bienvenido.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Bienvenido.vb",
+              "RelativeDocumentMoniker": "Bienvenido.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Bienvenido.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T18:45:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Corporativo.vb",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Corporativo.vb",
+              "RelativeDocumentMoniker": "Corporativo.vb",
+              "ToolTip": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Corporativo.vb",
+              "RelativeToolTip": "Corporativo.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T17:31:22.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Corporativo.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PC\\4 Alejo\\Censa Tecnica\\7. Poo Basica visual studio\\Logistica\\ejercicio4\\Corporativo.vb",
+              "RelativeDocumentMoniker": "Corporativo.vb",
+              "ToolTip": "D:\\5alejo\\Censa Tecnica\\7. Poo Basica visual studio\\25\\ejercicio4\\Corporativo.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T17:31:25.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

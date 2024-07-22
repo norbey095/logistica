@@ -1,0 +1,125 @@
+D:\poo\ejercicio4\bin\Debug\ejercicio4.exe.config
+D:\poo\ejercicio4\bin\Debug\ejercicio4.exe
+D:\poo\ejercicio4\bin\Debug\ejercicio4.pdb
+D:\poo\ejercicio4\bin\Debug\ejercicio4.xml
+D:\poo\ejercicio4\obj\Debug\trabajo final.vbproj.AssemblyReference.cache
+D:\poo\ejercicio4\obj\Debug\trabajo final.vbproj.SuggestedBindingRedirects.cache
+D:\poo\ejercicio4\obj\Debug\ejercicio4.Form1.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+D:\poo\ejercicio4\obj\Debug\trabajo final.vbproj.GenerateResource.cache
+D:\poo\ejercicio4\obj\Debug\trabajo final.vbproj.CoreCompileInputs.cache
+D:\poo\ejercicio4\obj\Debug\ejercicio4.exe
+D:\poo\ejercicio4\obj\Debug\ejercicio4.xml
+D:\poo\ejercicio4\obj\Debug\ejercicio4.pdb
+D:\poo\ejercicio4\obj\Debug\ejercicio4.corporativo.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.loguin.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\bin\Debug\ejercicio4.xml
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\trabajo final.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\trabajo final.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.clientes.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.corporativo.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.Form1.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.loguin.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.panel.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\trabajo final.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\trabajo final.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.xml
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\ejercicio4\obj\Debug\ejercicio4.pdb
+D:\poo\ejercicio4\obj\Debug\ejercicio4.Clientes.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.Facturacion.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.Impuestos.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.Inventario.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.nomina.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.panel.resources
+D:\poo\ejercicio4\obj\Debug\ejercicio4.ventas.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\bin\Debug\ejercicio4.xml
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Clientes.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Corporativo.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Facturacion.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Impuestos.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Inventario.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.loguin.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.nomina.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.xml
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.pdb
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Bienvenido.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Venta.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\visual studio\25\ejercicio4\obj\Debug\ejercicio4.Opcion.resources
+D:\poo final\ejercicio4\obj\Debug\trabajo final.vbproj.AssemblyReference.cache
+D:\poo final\ejercicio4\obj\Debug\trabajo final.vbproj.SuggestedBindingRedirects.cache
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.exe
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.xml
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.pdb
+D:\poo final\ejercicio4\bin\Debug\ejercicio4.exe.config
+D:\poo final\ejercicio4\bin\Debug\ejercicio4.exe
+D:\poo final\ejercicio4\bin\Debug\ejercicio4.pdb
+D:\poo final\ejercicio4\bin\Debug\ejercicio4.xml
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Clientes.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Corporativo.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Facturacion.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Bienvenido.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Impuestos.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Inventario.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Loguin.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Nomina.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Opcion.resources
+D:\poo final\ejercicio4\obj\Debug\ejercicio4.Venta.resources
+D:\poo final\ejercicio4\obj\Debug\trabajo final.vbproj.GenerateResource.cache
+D:\poo final\ejercicio4\obj\Debug\trabajo final.vbproj.CoreCompileInputs.cache
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.exe.config
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.exe
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.pdb
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.xml
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.AssemblyReference.cache
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Clientes.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Corporativo.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Facturacion.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Bienvenido.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Impuestos.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Inventario.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Loguin.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Nomina.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Opcion.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Venta.resources
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.GenerateResource.cache
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.CoreCompileInputs.cache
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.exe
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.xml
+D:\5alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.pdb
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.exe
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\bin\Debug\ejercicio4.xml
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.AssemblyReference.cache
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Clientes.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Corporativo.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Facturacion.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Bienvenido.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Impuestos.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Inventario.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Loguin.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Nomina.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Opcion.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.Venta.resources
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.GenerateResource.cache
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\trabajo final.vbproj.CoreCompileInputs.cache
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.exe
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.xml
+C:\PC\4 Alejo\Censa Tecnica\7. Poo Basica visual studio\25\ejercicio4\obj\Debug\ejercicio4.pdb
